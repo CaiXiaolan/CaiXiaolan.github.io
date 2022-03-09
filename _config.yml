@@ -1,6 +1,6 @@
 title: "XiaoLab"
 author: "Xiaolan Cai"
-description: "A place for Xiaolan to document progress of her Ph.D. project: Open Source Smart City and Impacts on Civic Engagement in Australia" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Documentation of Xiaolan's Ph.D. project: Open Source Smart City and Impacts on Civic Engagement in Australia." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
@@ -8,12 +8,7 @@ email: "xiaolan.cai@canberra.edu.au"
 twitter_username: "XiaolanSharon"
 github_username: "CaiXiaolan"
 linkedin_username: "xiaolan-cai"
-#facebook_username: username
-#flickr_username: username
-#instagram_username: username
-#pinterest_username: username
-#youtube_username: username
-#googleplus_username: +username
+"This blog was built with [GitHub Pages](https://pages.github.com/) using [Chad Baldwin](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html)"
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
