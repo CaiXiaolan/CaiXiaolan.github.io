@@ -12,5 +12,5 @@ My research interests include:
 - Smart city and technology in urban context.
 - FOSS in the context of smart city, and applications by local communities.
 - Instagramization of cities.
--
+
 Feel free to contact me to talk about FOSS qne things of cities!
