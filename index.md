@@ -9,11 +9,11 @@ My research interests include:
 
 ### About my project
 
-  #### What it is about? 
+#### What it is about? 
   
   >This is my PhD research project. It aims to examine the relation between **open source technologies** and **local communities** in the context of **smart cities**, and evaluate to what extent these community-led open source technology-based model of smart cities could enhance **civic engagement** in Australia.  
 
-  #### How it will be conducted?
+#### How it will be conducted?
   
   > Online research methods (e.g.: web-scraping and data collection with APIs from social media platforms) and enthnography methods (e.g.: observations, interviews and documents collection) will be used to collect data for this research project.  
   > The information gained from the research will be used to:  
@@ -21,15 +21,15 @@ My research interests include:
   > 2. Make policy recommendation that could empower local communities 
   > 3. Develop methods that could be easily adopted by local communities to evaluate their open source projects regarding civic engagement 
  
-  #### How the data will be analysis?
+#### How the data will be analysis?
   
   > *coming soon*
   
-  #### Where will be the data stored and for how long?
+#### Where will be the data stored and for how long?
   
   > It will be stored in UC, in a password-protect computer and backup in UC's cloud space. It will be kept for 5 years after my graduation in UC's cloud.
   
-  #### Who could access to the data?
+#### Who could access to the data?
   >
   > Myself, my supervision panel members, and possiblely employee(s) in an AI company providing academic transcription service.
 
