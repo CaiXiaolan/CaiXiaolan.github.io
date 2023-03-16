@@ -1,7 +1,7 @@
 
 # About me
 
-I am Xiaolan, a PhD candidate at the University of Canberra investigating **Open Source Smart City Projects and Impacts on Civic Engagement in Australia**. 
+I am Xiaolan, a PhD candidate at the [University of Canberra](https://www.canberra.edu.au/research/faculty-research-centres/nmrc/Team/our-research-students) with a background of _urban planning_ (7+ years) and _computational social research_. My PhD project investigates **Open Source Smart City Projects and Impacts on Civic Engagement in Australia**. 
 My research interests include:
 - Citizen(& non-citizen) engagement in urban planning and other local-level policy-making.
 - FOSS in the context of smart city and civic engagement, and applications by local communities.
@@ -11,7 +11,7 @@ My research interests include:
 
 ## What it is about?
   
-This is my PhD research project. It aims to examine the relation between **open source technologies** and **local communities** in the context of **smart cities**, and evaluate to what extent these community-led open source technology-based model of smart cities could enhance **civic engagement** in Australia.  
+This is my PhD research project. It aims to examine the relation between **open source technologies** and **local communities** in the context of **smart cities**, and evaluate to what extent these community-led open source technology-based model of smart cities could enhance **civic engagement** in Australia.
 
 ## How it will be conducted?
   
@@ -21,9 +21,12 @@ Online research methods (e.g.: web-scraping and data collection with APIs from s
 - Develop methods that could be easily adopted by local communities to evaluate their open source projects regarding civic engagement.  
  
 ## How the data will be analysis?
-  
-*coming soon~~~*
-  
+
+[Social network analysis(SNA)](https://en.wikipedia.org/wiki/Social_network_analysis) & [Thematic analysis](https://en.wikipedia.org/wiki/Thematic_analysis) will be conducted to map the dynamics between open source technologies, local communities and the urban issues people concerned.
+### Social network analysis
+
+### Thematic analysis
+
 ## Where will be the data stored and for how long?
   
 It will be stored in UC, in a password-protect computer and backup in UC's cloud space. It will be kept for 5 years after my graduation in UC's cloud.
