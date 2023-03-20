@@ -22,14 +22,15 @@ Online research methods (e.g.: web-scraping and data collection with APIs from s
  
 ## How the data will be analysis?
 
-[Social network analysis(SNA)](https://en.wikipedia.org/wiki/Social_network_analysis) & [Thematic analysis](https://en.wikipedia.org/wiki/Thematic_analysis) will be conducted to map the dynamics between open source technologies, local communities and the urban issues people concerned.
-### **Social network analysis**
+[Social network analysis(SNA)](https://en.wikipedia.org/wiki/Social_network_analysis) & [Thematic analysis](https://en.wikipedia.org/wiki/Thematic_analysis) will be conducted to map the dynamics between open source technologies, local communities and the urban issues people concerned.  
 
-![Network of Federal Governement supported projects](docs/assets/NetworkOrgGiant.svg)  
-_Figure 1: partners network of Australian Federal government supported smart community projects_  
-_Note: the size of nodes represents how many projects a organization engaged in, and the width of the ties reflects the number of projects two organizations collaborated._   
+1. **Social network analysis**
+>
+> ![Network of Federal Governement supported projects](docs/assets/NetworkOrgGiant.svg)  
+> _Figure 1: partners network of Australian Federal government supported smart community projects_  
+> _Note: the size of nodes represents how many projects a organization engaged in, and the width of the ties reflects the number of projects two organizations collaborated._   
 
-### **Thematic analysis**
+2. **Thematic analysis**
 
 ## Where will be the data stored and for how long?
   
