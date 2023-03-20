@@ -26,7 +26,8 @@ Online research methods (e.g.: web-scraping and data collection with APIs from s
 ### Social network analysis
 
 ![Network of Federal Governement supported projects](docs/assets/NetworkOrgGiant.svg)  
-_A demo graph of network of partners of Australian Federal government supported smart community projects_
+_Figure 1: partners network of Australian Federal government supported smart community projects_  
+_Note: the size of nodes represents how many projects a organization engaged in, and the width of the ties reflects the number of projects two organizations collaborated._   
 
 ### Thematic analysis
 
@@ -37,7 +38,7 @@ It will be stored in UC, in a password-protect computer and backup in UC's cloud
 ## Who could access to the data?
 
 - Myself, my supervision panel members.  
-- Possiblely employee(s) in an AI company providing academic transcription service.  
+- And possiblely employee(s) in an AI company providing academic transcription service.  
 
 # My publications
 
