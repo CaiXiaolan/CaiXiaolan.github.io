@@ -3,7 +3,7 @@
 
 I am Xiaolan, a PhD candidate at the [University of Canberra](https://www.canberra.edu.au/research/faculty-research-centres/nmrc/Team/our-research-students) with a background of _urban planning_ (7+ years) and _computational social research_. My PhD project investigates **Open Source Smart City Projects and Impacts on Civic Engagement in Australia**. 
 My research interests include:
-- Citizen(& non-citizen) engagement in urban planning and other local-level policy-making.
+- Citizen (& non-citizen) engagement in urban planning and other local-level policymaking.
 - FOSS in the context of smart city and civic engagement, and applications by local communities.
 
 
@@ -15,7 +15,7 @@ This is my PhD research project. It aims to examine the relation between **open 
 
 ## How it will be conducted?
   
-Online research methods (e.g.: web-scraping and data collection with APIs from social media platforms) and enthnography methods (e.g.: observations, interviews and documents collection) will be used to collect data for this research project. The information gained from the research will be used to:  
+Online research methods (e.g.: web-scraping and data collection with APIs from social media platforms) and ethnography methods (e.g.: observations, interviews and documents collection) will be used to collect data for this research project. The information gained from the research will be used to:  
 - Identify successful development patterns for Australian open source smart city projects.  
 - Make policy recommendation that could empower local communities.  
 - Develop methods that could be easily adopted by local communities to evaluate their open source projects regarding civic engagement.  
@@ -23,13 +23,13 @@ Online research methods (e.g.: web-scraping and data collection with APIs from s
 ## How the data will be analysis?
 
 [Social network analysis(SNA)](https://en.wikipedia.org/wiki/Social_network_analysis) & [Thematic analysis](https://en.wikipedia.org/wiki/Thematic_analysis) will be conducted to map the dynamics between open source technologies, local communities and the urban issues people concerned.
-### Social network analysis
+### **Social network analysis**
 
 ![Network of Federal Governement supported projects](docs/assets/NetworkOrgGiant.svg)  
 _Figure 1: partners network of Australian Federal government supported smart community projects_  
 _Note: the size of nodes represents how many projects a organization engaged in, and the width of the ties reflects the number of projects two organizations collaborated._   
 
-### Thematic analysis
+### **Thematic analysis**
 
 ## Where will be the data stored and for how long?
   
