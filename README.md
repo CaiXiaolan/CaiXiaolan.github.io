@@ -1,2 +1,2 @@
 # CaiXiaolan.github.io
-A blog to document my PhD progress
+[A blog](https://caixiaolan.github.io/) to document my PhD progress
