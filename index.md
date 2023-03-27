@@ -2,31 +2,30 @@
 # About me
 My names is Xiaolan CAI, and I am a PhD candidate at the University of Canberra's [News & Media Research Centre](https://www.canberra.edu.au/research/faculty-research-centres/nmrc/Team/our-research-students). I have a background in urban planning (7+ years) and computational social research. My PhD project investigates **Open Source Smart City Projects and Impacts on Civic Engagement in Australia**. 
 
+# About my project  
 
-
-# About my project
-
-## What it is about?
+## What it is about?  
   
 My PhD project aims to examine the relation between **open source technologies** and **local communities** in the context of **smart cities**, and evaluate to what extent these community-led, open source technology-based, smart cities models could enhance **civic engagement** in Australia. I understand civic engagement as the involvement of local communities in public policy deliberation and implementation.
 
-## How will it be conducted?
+## How will it be conducted?  
   
 I am using online research methods (e.g., web-scraping and data collection with APIs from social media platforms) and ethnographic methods (e.g., observations, interviews and documents collection) to collect data for this research project. The information gained from the research will be used to:  
 - Identify successful development patterns for Australian open source smart city projects.  
 - Make policy recommendations to empower local communities.  
 - Create tools to develop civic impacts that could be easily adopted by local communities.  
  
-## How the data will be analysed?
+## How the data will be analysed?  
 
 [Social network analysis (SNA)](https://en.wikipedia.org/wiki/Social_network_analysis) & [Thematic analysis](https://en.wikipedia.org/wiki/Thematic_analysis) will be conducted to map the dynamics between open source technologies, local communities and the urban issues people are concerned about.  
 
-1. **Social network analysis**
-> This graph represents entities which have received Australian federal government funding to develop smart community projects. Organizations are linked when they have been involved in common projects. Node size represents how many projects an organization engaged in, and tie width reflects the number of projects two organizations collaborated on.  
-> 
-> ![Network of Federal Governement supported projects](docs/assets/NetworkOrgGiant.svg)  
-> _Figure 1: Partner network of Australian Federal government supported smart community projects_  
+1. **Social network analysis**  
 
+This graph represents entities which have received Australian federal government funding to develop smart community projects. Organizations are linked when they have been involved in common projects. Node size represents how many projects an organization engaged in, and tie width reflects the number of projects two organizations collaborated on.  
+
+> ![Network of Federal Governement supported projects](docs/assets/NetworkOrgGiant.svg)  
+> 
+> _Figure 1: Partner network of Australian Federal government supported smart community projects_  
 
 2. **Thematic analysis**  
 _Coming soon_  
