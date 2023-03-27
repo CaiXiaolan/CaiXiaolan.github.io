@@ -36,7 +36,7 @@ All data for this project will be stored in a password-protected computer at the
   
 ## Who can access these data?
 
-- Myself and my supervisory panel members.   
+Myself and my supervisory panel members.   
 
 # My supervisory panel
 - Primary supervisor: Associate Professor of Communication [Mathieu O'Neil](https://researchprofiles.canberra.edu.au/en/persons/mathieu-oneil), News & Media Research Centre, University of Canberra.
