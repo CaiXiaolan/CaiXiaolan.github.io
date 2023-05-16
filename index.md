@@ -1,6 +1,6 @@
 
 # About me
-My names is Xiaolan CAI, and I am a PhD candidate at the [University of Canberra's News & Media Research Centre](https://www.canberra.edu.au/research/centres/nmrc/our-people). I have a background in urban planning (7+ years) and computational social research. My PhD project investigates **Open Source Smart City Projects and Impacts on Civic Engagement in Australia**. 
+My name is Xiaolan CAI, and I am a PhD candidate at the [University of Canberra's News & Media Research Centre](https://www.canberra.edu.au/research/centres/nmrc/our-people). I have a background in urban planning (7+ years) and computational social research. My PhD project investigates **Open Source Smart City Projects and Impacts on Civic Engagement in Australia**. 
 
 # About my project  
 
