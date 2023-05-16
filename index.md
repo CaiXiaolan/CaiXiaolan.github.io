@@ -15,7 +15,7 @@ I am using online research methods (e.g., web-scraping and data collection with 
 - Make policy recommendations to empower local communities.  
 - Create tools to develop civic impacts that could be easily adopted by local communities.  
  
-## How the data will be analysed?  
+## How will the data be analysed?  
 
 [Social network analysis (SNA)](https://en.wikipedia.org/wiki/Social_network_analysis) & [Thematic analysis](https://en.wikipedia.org/wiki/Thematic_analysis) will be conducted to map the dynamics between open source technologies, local communities and the urban issues people are concerned about.  
 
