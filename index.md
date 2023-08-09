@@ -39,7 +39,7 @@ All data for this project will be stored in a password-protected computer at the
 Myself and my supervisory panel members.   
 
 # My supervisory panel
-- Primary supervisor: Associate Professor of Communication [Mathieu O'Neil](https://researchprofiles.canberra.edu.au/en/persons/mathieu-oneil), News & Media Research Centre, University of Canberra.
+- Primary supervisor: Professor of Communication [Mathieu O'Neil](https://researchprofiles.canberra.edu.au/en/persons/mathieu-oneil), News & Media Research Centre, University of Canberra.
 - Secondary supervisor: Professor of Urban Planning [Barbara Norman](https://researchprofiles.canberra.edu.au/en/persons/barbara-norman), Canberra Urban and Regional Futures, University of Canberra.
 
 # My publications
