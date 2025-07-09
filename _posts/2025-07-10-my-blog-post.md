@@ -6,4 +6,4 @@ date: 2025-07-10
 
 You can view or download my full C.V here:
 
-[📄 Download Xiaolan's C.V (PDF)](/Xiaolan_CV.pdf)
+[Xiaolan_CV.pdf](https://github.com/CaiXiaolan/CaiXiaolan.github.io/blob/main/docs/assets/C.V_Xiaolan%20Cai.pdf)
