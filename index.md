@@ -40,7 +40,8 @@ Myself and my supervisory panel members.
 
 # My supervisory panel
 - Primary supervisor: Professor of Communication [Mathieu O'Neil](https://researchprofiles.canberra.edu.au/en/persons/mathieu-oneil), News & Media Research Centre, University of Canberra.
-- Secondary supervisor: Professor of Urban Planning [Barbara Norman](https://researchprofiles.canberra.edu.au/en/persons/barbara-norman), Canberra Urban and Regional Futures, University of Canberra.
+- Secondary supervisor: [Dr. Momoko Fujita](https://researchprofiles.canberra.edu.au/en/persons/momoko-fujita), News & Media Research Centre, University of Canberra.
+- Advisor: Professor of Urban Planning [Barbara Norman](https://researchprofiles.canberra.edu.au/en/persons/barbara-norman), Canberra Urban and Regional Futures, University of Canberra.
 
 # My publications
 
