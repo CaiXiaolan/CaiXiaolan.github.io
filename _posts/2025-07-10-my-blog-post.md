@@ -1,8 +1,4 @@
----
-layout: post
-title: "Xiaolan's C.V."
-date: 2025-07-10
----
+## Xiaolan's C.V.
 
 You can view or download my full C.V here:
 
