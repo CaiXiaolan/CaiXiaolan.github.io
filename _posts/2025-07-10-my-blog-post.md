@@ -1,5 +1,3 @@
-## Xiaolan's C.V.
+## This is a test
 
-You can view or download my full C.V here:
-
-[Xiaolan_CV.pdf](https://github.com/CaiXiaolan/CaiXiaolan.github.io/blob/main/docs/assets/C.V_Xiaolan%20Cai.pdf)
+I don't know what happen,why this blog couldn't show up on my pages.
